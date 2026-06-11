@@ -2019,7 +2019,7 @@ body {
 
     /* --- works --- */
     .works-section {
-        width: 60%;
+        width: 70%;
         padding: 0 20px;
         margin-top: 50px;
         height: auto;
@@ -2231,6 +2231,8 @@ body {
 
     .works-section a {
         font-size: 16px;
+        position: relative;
+        top: 50px;
     }
 
     /* --- testimonial 2 --- */
